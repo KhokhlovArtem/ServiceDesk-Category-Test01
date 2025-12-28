@@ -1,0 +1,50 @@
+{
+  "esc-1line": {
+    "articles": [
+      "esc-1line/example.md"
+    ],
+    "fallback_team": "level1"
+  },
+  "esc-gate": {
+    "articles": [
+      "esc-gate/example.md"
+    ],
+    "fallback_team": "level1"
+  },
+  "info-consult": {
+    "articles": [
+      "info-consult/example.md"
+    ],
+    "fallback_team": "level1"
+  },
+  "req-access": {
+    "articles": [
+      "req-access/example.md"
+    ],
+    "fallback_team": "level1"
+  },
+  "tech-geo": {
+    "articles": [
+      "tech-geo/example.md"
+    ],
+    "fallback_team": "level1"
+  },
+  "tech-install": {
+    "articles": [
+      "tech-install/example.md"
+    ],
+    "fallback_team": "level1"
+  },
+  "tech-login": {
+    "articles": [
+      "tech-login/example.md"
+    ],
+    "fallback_team": "level1"
+  },
+  "tech-sync": {
+    "articles": [
+      "tech-sync/example.md"
+    ],
+    "fallback_team": "level1"
+  }
+}
